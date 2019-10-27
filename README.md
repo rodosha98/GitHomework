@@ -1,4 +1,5 @@
 Robopy. Initial content
+<<<<<<< HEAD
 
 Base is implemented with 10 python files. This is the first the part, which contain init file for import, file with arguments and common file with the main functions for matrix type definition
 Those files comprised of functions to determine the position of robot, function to build model and to draw graphics
@@ -10,7 +11,12 @@ Orion5 project contains 7 stl files which describe it’s 3D model of each link
 Puma 560 project contains 7 stl files which describe it’s 3D model of each link. Puma is 7-linked robot including the base
 This test files include test data to prove the correctness of a model
 
+Docs:
 When you add docs folder, Images are available.
 
 This test files include test data to prove the correctness of a model
+
+Examples:
+In pose python files there are examples how to define the position of the tool
+In animation python files there are example of Puma project with animation of moving and robot’s configuration plot
 
