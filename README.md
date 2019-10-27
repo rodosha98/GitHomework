@@ -6,3 +6,4 @@ Transform file contains functions to implement operations between matrices. Util
 folder there are images of the floor and robotype logot
 In images folder there are images of the floor and robotype logot
 Orion5 project contains 7 stl files which describe it’s 3D model of each link
+Puma 560 project contains 7 stl files which describe it’s 3D model of each link. Puma is 7-linked robot including the base
